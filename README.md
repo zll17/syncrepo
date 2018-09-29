@@ -1,3 +1,3 @@
 # syncrepo
 
-# This repository is used to synchronize files among my different machines.
+This repository is used to synchronize files among my different machines.
